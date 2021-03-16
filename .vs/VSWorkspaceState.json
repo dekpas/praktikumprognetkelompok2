@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\bootstrap\\cache",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\layouts"
+  ],
+  "SelectedNode": "\\resources\\views\\layouts\\navbar.blade.php",
+  "PreviewInSolutionExplorer": false
+}
